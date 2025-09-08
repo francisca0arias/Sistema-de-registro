@@ -2,4 +2,8 @@
 
 -estado del proyecto: En construccion. 
 
-```apm install react```
+para ejecutar debes colocar:
+
+```npm install react```
+
+Sistema de Registro 2 
